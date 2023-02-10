@@ -1,0 +1,20 @@
+.total-time {
+    /* total measured time */
+    font-size: 150px;
+}
+
+.split-time {
+    /* time of last split */
+    font-size: 45px;
+}
+
+button {
+    cursor: pointer;
+    margin: 5px;
+}
+
+.buttonsStyle {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
